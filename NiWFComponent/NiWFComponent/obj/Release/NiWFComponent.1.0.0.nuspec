@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NiWFComponent</id>
+    <version>1.0.0</version>
+    <authors>Nima Yazdi</authors>
+    <description>For using Windows forms DataGridView.
+but with Sort , Filter &amp; Search
+
+
+*** Contact me for any Review</description>
+    <dependencies>
+      <group targetFramework="net5.0-windows7.0">
+        <dependency id="NiWFComponent.Logics" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net5.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="F:\Programming\Nuget\NiWFComponent\NiWFComponent\bin\Release\net5.0-windows\NiWFComponent.runtimeconfig.json" target="lib\net5.0-windows7.0\NiWFComponent.runtimeconfig.json" />
+    <file src="F:\Programming\Nuget\NiWFComponent\NiWFComponent\bin\Release\net5.0-windows\NiWFComponent.dll" target="lib\net5.0-windows7.0\NiWFComponent.dll" />
+  </files>
+</package>

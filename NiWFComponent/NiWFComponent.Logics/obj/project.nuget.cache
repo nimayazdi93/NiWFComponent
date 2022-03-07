@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OHv4AJMGTT3BuoHEF2S3NwFhV/zkpEztCBjIo+IPkTpix0nKAy1nKx+35RDC6WPkJyWv6AWDhVuYeyPB55yLww==",
+  "success": true,
+  "projectFilePath": "F:\\Programming\\Nuget\\NiWFComponent\\NiWFComponent.Logics\\NiWFComponent.Logics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NiMa\\.nuget\\packages\\nireporter\\1.0.0\\nireporter.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Authors>Nima Yazdi</Authors>
+    <Description>For using Windows forms DataGridView.
+but with Sort , Filter &amp; Search
+
+
+*** Contact me for any Review</Description>
+    <AssemblyVersion>1.0.1</AssemblyVersion>
+    <FileVersion>1.0.1</FileVersion>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NiWFComponent.Logics\NiWFComponent.Logics.csproj" />
+  </ItemGroup>
+
+	
+</Project>

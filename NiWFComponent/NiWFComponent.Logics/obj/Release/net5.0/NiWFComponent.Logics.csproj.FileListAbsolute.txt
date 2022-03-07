@@ -1,0 +1,12 @@
+F:\Programming\Nuget\NiWFComponent\NiWFComponent.Logics\bin\Release\net5.0\NiWFComponent.Logics.deps.json
+F:\Programming\Nuget\NiWFComponent\NiWFComponent.Logics\bin\Release\net5.0\NiWFComponent.Logics.dll
+F:\Programming\Nuget\NiWFComponent\NiWFComponent.Logics\bin\Release\net5.0\ref\NiWFComponent.Logics.dll
+F:\Programming\Nuget\NiWFComponent\NiWFComponent.Logics\bin\Release\net5.0\NiWFComponent.Logics.pdb
+F:\Programming\Nuget\NiWFComponent\NiWFComponent.Logics\obj\Release\net5.0\NiWFComponent.Logics.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\Nuget\NiWFComponent\NiWFComponent.Logics\obj\Release\net5.0\NiWFComponent.Logics.AssemblyInfoInputs.cache
+F:\Programming\Nuget\NiWFComponent\NiWFComponent.Logics\obj\Release\net5.0\NiWFComponent.Logics.AssemblyInfo.cs
+F:\Programming\Nuget\NiWFComponent\NiWFComponent.Logics\obj\Release\net5.0\NiWFComponent.Logics.csproj.CoreCompileInputs.cache
+F:\Programming\Nuget\NiWFComponent\NiWFComponent.Logics\obj\Release\net5.0\NiWFComponent.Logics.dll
+F:\Programming\Nuget\NiWFComponent\NiWFComponent.Logics\obj\Release\net5.0\ref\NiWFComponent.Logics.dll
+F:\Programming\Nuget\NiWFComponent\NiWFComponent.Logics\obj\Release\net5.0\NiWFComponent.Logics.pdb
+F:\Programming\Nuget\NiWFComponent\NiWFComponent.Logics\obj\Release\net5.0\NiWFComponent.Logics.csproj.AssemblyReference.cache

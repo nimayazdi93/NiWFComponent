@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fb5bcfb0-e053-4e82-a6ea-e1004dd15b3e": {
+      "ProjectGuid": "fb5bcfb0-e053-4e82-a6ea-e1004dd15b3e",
+      "DisplayName": "NiWFComponent",
+      "ColorIndex": 0
+    },
+    "02b1cca9-2d23-41e8-9eac-dcd14b999eb7": {
+      "ProjectGuid": "02b1cca9-2d23-41e8-9eac-dcd14b999eb7",
+      "DisplayName": "NiWfComponent.Test",
+      "ColorIndex": 1
+    },
+    "788ff232-3e4c-4d8c-8f0b-49d2e9b8cd0e": {
+      "ProjectGuid": "788ff232-3e4c-4d8c-8f0b-49d2e9b8cd0e",
+      "DisplayName": "NiWFComponent.Logics",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

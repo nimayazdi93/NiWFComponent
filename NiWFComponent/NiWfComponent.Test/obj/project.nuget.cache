@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "faxPNmCI9wH1zRUHzkatXms1/F+SpLZzzHEOsARmqqBhSxSpm8eKciWOB2XQ44wwCEblU772ce/iqjhBRxKQeg==",
+  "success": true,
+  "projectFilePath": "F:\\Programming\\Nuget\\NiWFComponent\\NiWfComponent.Test\\NiWfComponent.Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NiMa\\.nuget\\packages\\nireporter\\1.0.0\\nireporter.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

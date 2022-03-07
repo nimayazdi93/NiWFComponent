@@ -15,6 +15,7 @@ but with Sort , Filter &amp; Search
     <AssemblyVersion>1.0.1</AssemblyVersion>
     <FileVersion>1.0.1</FileVersion>
     <Version>1.0.1</Version>
+    <PackageProjectUrl>https://github.com/nimayazdi93/NiWFComponent/tree/main/NiWFComponent</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>

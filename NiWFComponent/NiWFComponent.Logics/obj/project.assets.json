@@ -40,11 +40,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Programming\\Nuget\\NiWFComponent\\NiWFComponent.Logics\\NiWFComponent.Logics.csproj",
+      "projectUniqueName": "F:\\Programming\\Nuget\\NiWFComponentGit\\NiWFComponent\\NiWFComponent.Logics\\NiWFComponent.Logics.csproj",
       "projectName": "NiWFComponent.Logics",
-      "projectPath": "F:\\Programming\\Nuget\\NiWFComponent\\NiWFComponent.Logics\\NiWFComponent.Logics.csproj",
+      "projectPath": "F:\\Programming\\Nuget\\NiWFComponentGit\\NiWFComponent\\NiWFComponent.Logics\\NiWFComponent.Logics.csproj",
       "packagesPath": "C:\\Users\\NiMa\\.nuget\\packages\\",
-      "outputPath": "F:\\Programming\\Nuget\\NiWFComponent\\NiWFComponent.Logics\\obj\\",
+      "outputPath": "F:\\Programming\\Nuget\\NiWFComponentGit\\NiWFComponent\\NiWFComponent.Logics\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -99,7 +99,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

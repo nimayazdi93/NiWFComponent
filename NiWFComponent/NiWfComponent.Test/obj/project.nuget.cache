@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "faxPNmCI9wH1zRUHzkatXms1/F+SpLZzzHEOsARmqqBhSxSpm8eKciWOB2XQ44wwCEblU772ce/iqjhBRxKQeg==",
+  "dgSpecHash": "mJ88sW7EjhPoYINZNE/Uk9eUvg0B/rYsTCncbectGXNjnupwLA4Vn+aBw5jKuZ6fHOnRBvrfadJag34Nn4D3yA==",
   "success": true,
-  "projectFilePath": "F:\\Programming\\Nuget\\NiWFComponent\\NiWfComponent.Test\\NiWfComponent.Test.csproj",
+  "projectFilePath": "F:\\Programming\\Nuget\\NiWFComponentGit\\NiWFComponent\\NiWfComponent.Test\\NiWfComponent.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NiMa\\.nuget\\packages\\nireporter\\1.0.0\\nireporter.1.0.0.nupkg.sha512"
   ],

@@ -58,11 +58,11 @@
   "project": {
     "version": "1.0.1",
     "restore": {
-      "projectUniqueName": "F:\\Programming\\Nuget\\NiWFComponent\\NiWFComponent\\NiWFComponent.csproj",
+      "projectUniqueName": "F:\\Programming\\Nuget\\NiWFComponentGit\\NiWFComponent\\NiWFComponent\\NiWFComponent.csproj",
       "projectName": "NiWFComponent",
-      "projectPath": "F:\\Programming\\Nuget\\NiWFComponent\\NiWFComponent\\NiWFComponent.csproj",
+      "projectPath": "F:\\Programming\\Nuget\\NiWFComponentGit\\NiWFComponent\\NiWFComponent\\NiWFComponent.csproj",
       "packagesPath": "C:\\Users\\NiMa\\.nuget\\packages\\",
-      "outputPath": "F:\\Programming\\Nuget\\NiWFComponent\\NiWFComponent\\obj\\",
+      "outputPath": "F:\\Programming\\Nuget\\NiWFComponentGit\\NiWFComponent\\NiWFComponent\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -85,8 +85,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "F:\\Programming\\Nuget\\NiWFComponent\\NiWFComponent.Logics\\NiWFComponent.Logics.csproj": {
-              "projectPath": "F:\\Programming\\Nuget\\NiWFComponent\\NiWFComponent.Logics\\NiWFComponent.Logics.csproj"
+            "F:\\Programming\\Nuget\\NiWFComponentGit\\NiWFComponent\\NiWFComponent.Logics\\NiWFComponent.Logics.csproj": {
+              "projectPath": "F:\\Programming\\Nuget\\NiWFComponentGit\\NiWFComponent\\NiWFComponent.Logics\\NiWFComponent.Logics.csproj"
             }
           }
         }
@@ -118,7 +118,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

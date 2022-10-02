@@ -25,6 +25,7 @@ namespace NiWFComponent
             DataGrid.Dock = DockStyle.Fill;
         }
 
+        List<string> Columns = new List<string>();
 
         private object dataSource = null;
         public object DataSource
@@ -37,6 +38,11 @@ namespace NiWFComponent
             {
                 dataSource = value;
                 DataGrid.DataSource = value;
+            foreach(var column in DataGrid.Columns)
+                {
+                    var col = column as DataGridViewColumn;
+                    Columns.Add(col.HeaderText);
+                }
             }
         }
         public List<object>? DataList
@@ -119,7 +125,15 @@ namespace NiWFComponent
                 }
             }
 
-            DataGrid.DataSource = orderShowing;
+            DataGrid.DataSource = orderShowing==null?new List<object>():orderShowing;
+            if (orderShowing.Count == 0)
+            {
+                DataGrid.Columns.Clear();
+                Columns.ForEach(c =>
+                {
+                    DataGrid.Columns.Add(new DataGridViewColumn() { HeaderText=c});
+                });
+            }
         }
 
 

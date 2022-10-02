@@ -12,15 +12,11 @@ but with Sort , Filter &amp; Search
 
 
 *** Contact me for any Review</Description>
-    <AssemblyVersion>1.0.1</AssemblyVersion>
-    <FileVersion>1.0.1</FileVersion>
-    <Version>1.0.1</Version>
+    <AssemblyVersion>1.0.2</AssemblyVersion>
+    <FileVersion>1.0.2</FileVersion>
+    <Version>1.0.2</Version>
     <PackageProjectUrl>https://github.com/nimayazdi93/NiWFComponent/tree/main/NiWFComponent</PackageProjectUrl>
   </PropertyGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\NiWFComponent.Logics\NiWFComponent.Logics.csproj" />
-  </ItemGroup>
 
 	
 </Project>
